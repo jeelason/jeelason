@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋
 
 
 ### I am Jason Lee, a full stack engineer  
@@ -7,10 +7,11 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## Contact Info
+
+## CONTACT INFO
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jasonlee220/) 
 
-## Portfolio Projects
+## PORTFOLIO PROJECTS
 - [GreatValue Builds](https://github.com/jeelason/great-builds)
   * Full-stack custom PC application for gamers to personalize a gaming rig
 - [Drive Swiftly](https://github.com/jeelason/drive-swiftly)
