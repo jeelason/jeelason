@@ -7,7 +7,7 @@
 
 ***
 
-- [Case-n-Parts](https://github.com/jeelason/great-builds)
+- [Case-n-Parts](https://github.com/jeelason/case-n-parts)
   * Full-stack custom PC application for gamers to personalize a gaming rig
 - [Drive Swiftly](https://github.com/jeelason/drive-swiftly)
   * Car dealership operations web application to track inventory and sales
